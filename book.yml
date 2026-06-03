@@ -1,0 +1,16 @@
+title: "言語処理系における I/O 入門"
+language: "ja"
+ai_generated: true
+bibliography: references.bib
+chapters:
+  - cover: cover.md
+  - introduction.md
+  - io-in-language-systems.md
+  - os-and-system-calls.md
+  - buffering-and-streams.md
+  - os-differences.md
+  - blocking-and-multiplexing.md
+  - async-io.md
+  - implementing-in-ruby.md
+  - appendix:
+    - glossary.md
