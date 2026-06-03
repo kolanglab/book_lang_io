@@ -14,3 +14,8 @@ chapters:
   - implementing-in-ruby.md
   - appendix:
     - glossary.md
+
+repository: "https://github.com/kolanglab/book_lang_io"
+
+github_review:
+  enabled: true
