@@ -1,4 +1,6 @@
 title: "言語処理系における I/O 入門"
+head: |
+  <script data-goatcounter="https://ko1.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 description: "言語処理系が必要とする I/O を、OS のシステムコール・バッファリング・ブロッキング/多重化・非同期 I/O・io_uring まで実装視点で"
 language: "ja"
 ai_generated: true
